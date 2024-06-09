@@ -489,7 +489,7 @@ ViaVersion仅提供让高版本客户端进入低版本服务器的功能，需�
 
 ### WorldEdit (Sponge)
 
-API版本：7.1，8.1，11
+API版本：7.1,8.1,11
 
 标签：`管理` `安全` `信息`  
 
@@ -502,7 +502,7 @@ API版本：7.1，8.1，11
 
 ### Luckperms (Sponge)
 
-API版本：7，8
+API版本：7,8,9,11
 
 标签：`管理` `信息`
 
@@ -532,7 +532,7 @@ API版本：7,8,10
 
 ### Nucleus
 
-API版本：5，6，7，8
+API版本：5,6,7,8
 
 标签：`管理` `信息` `生存`
 
@@ -573,13 +573,13 @@ API版本：7.2
 介绍：可以看作是AllMusic的Sponge版。支持网易云等平台点歌。**需要客户端模组配合。**
 
 下载链接：  
-[mcbbs](https://www.mcbbs.net/thread-993146-1-1.html)
+~~[mcbbs](https://www.mcbbs.net/thread-993146-1-1.html)~~
 
 -----
 
 ### ViaVersion/ViaBackward/ViaRewind
 
-API版本：8,10
+API版本：8,10,11
 
 标签：`共游` `跨版本` `实用`
 
